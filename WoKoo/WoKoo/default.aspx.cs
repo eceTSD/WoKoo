@@ -16,7 +16,7 @@ namespace WoKoo
 
         protected void Unnamed_Click(object sender, EventArgs e)
         {
-            string a = "aaa";
+            string a = "aaaa";
             Response.Write("<script>alert('hello world!safasf')</script>");
         }
     }
